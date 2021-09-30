@@ -1,6 +1,8 @@
 # Billiards Simulator
 
-Authors: Youchuan Hu, Zihan Liu, Yunze Long, and Di Wu
+UCLA CS174A Course Project
+
+Authors: Youchuan Hu, Zihan Liu, Yunze Long, and Di Wu 
 
 This is a billiards simulator based on the standard American 8-Ball pool game. Current, the game supports player-vs-player mode.   
 To play the game:
